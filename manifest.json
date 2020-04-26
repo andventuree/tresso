@@ -1,0 +1,21 @@
+{
+  "name": "CSS on Trello",
+  "description": "Apply personal styling on Trello cards",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "Trello CSS Icon.png",
+    "default_title": "Stylize!",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.trello.com/*"],
+      "css": ["styles.css"],
+      "js": ["popup.js"]
+    }
+  ]
+}
