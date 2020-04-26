@@ -13,3 +13,15 @@
 .board-menu {
   width: 40% !important;
 }
+
+.board-menu-header-title {
+  display: none;
+}
+
+.board-header-btn.mod-show-menu {
+  min-width: 800px;
+}
+
+.board-menu-header-close-button {
+  width: 90% !important;
+}
