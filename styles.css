@@ -9,3 +9,7 @@
 .js-edit-action {
   font-size: 23px;
 }
+
+.board-menu {
+  width: 40% !important;
+}
