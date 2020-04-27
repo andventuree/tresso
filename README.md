@@ -21,5 +21,5 @@ JS files are not needed for this chrome ext. But included anyways so i don't nee
 
 1) Open up `chrome://extensions/`
 2) Remove existing ext if you already have it, else, skip this step
-3) Just select the directory `/Users/andrew/Desktop/andrew projects/CSS for Trello Chrome Ext/tresso`
+3) Just select the directory `Desktop/andrew projects/CSS for Trello Chrome Ext/tresso`
 e.g., You don't upload individual files
