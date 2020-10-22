@@ -25,3 +25,12 @@
 .board-menu-header-close-button {
   width: 90% !important;
 }
+
+.list {
+  opacity: 90%;
+  /* transition: .2s ease-in-out .2s; */
+}
+
+.list:hover {
+  opacity: 100%
+}
