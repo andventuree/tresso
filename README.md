@@ -13,10 +13,9 @@ Built this super simple chrome ext to inject simple css to specific elements on 
 
 JS files are not needed for this chrome ext. But included anyways so i don't need to look it up.
 
-1.1) Make right sidebar bigger for easily readability
+1.1) Make right sidebar bigger for easily readability. Sets width to 40% so you can see more comments
 1.2) Make cards 90% opacity so you can see bg. 100% of hover.
-
-- Sets width to 40% so you can see more comments
+1.3) Make edit and delete buttons on comments bigger and more visible.
 
 # How to deploy?
 
