@@ -16,6 +16,7 @@ JS files are not needed for this chrome ext. But included anyways so i don't nee
 1.1) Make right sidebar bigger for easily readability. Sets width to 40% so you can see more comments
 1.2) Make cards 90% opacity so you can see bg. 100% of hover.
 1.3) Make edit and delete buttons on comments bigger and more visible.
+1.4) When you hover on a comment, the code html tag will expand to take up 100% height
 
 # How to deploy?
 
