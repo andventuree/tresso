@@ -77,6 +77,6 @@
   opacity: 100%
 }
 
-.action-comment:hover pre {
+.action-comment pre {
   max-height: 100% !important;
 }
