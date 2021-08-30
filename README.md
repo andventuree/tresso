@@ -17,6 +17,7 @@ JS files are not needed for this chrome ext. But included anyways so i don't nee
 1.2) Make cards 90% opacity so you can see bg. 100% of hover.
 1.3) Make edit and delete buttons on comments bigger and more visible.
 1.4) When you hover on a comment, the code html tag will expand to take up 100% height
+1.5) If you paste in a youtube url in comment, it'll hide the player - to save space
 
 # How to deploy?
 

@@ -80,3 +80,7 @@
 .action-comment pre {
   max-height: 100% !important;
 }
+
+.embed-provider-YouTube {
+  display: none;
+}
